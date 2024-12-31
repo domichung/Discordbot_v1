@@ -1,0 +1,5 @@
+audioop-lts
+discord
+bs4
+yt-dlp
+PyNaCl
